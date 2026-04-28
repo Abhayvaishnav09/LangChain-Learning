@@ -1,0 +1,35 @@
+# Core
+python-dotenv
+requests
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+
+# OpenAI
+openai
+
+# Groq
+groq
+langchain-groq
+
+# Google (Gemini)
+google-generativeai
+
+# Mistral
+mistralai
+langchain-mistralai
+
+# Vector DB (for RAG)
+faiss-cpu
+
+# Embeddings / ML utils
+tiktoken
+numpy
+pandas
+
+# Optional (better dev experience)
+ipykernel
